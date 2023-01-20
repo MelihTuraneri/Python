@@ -1,9 +1,5 @@
-This function made for my Pyqt5 user interface.
+This hist graph is made of bar graph.
 
-In pyqt5 there was no support for hist graph or I couldnt find anything about it.
+I will use it on another problem I have...
 
-So I made hist graph from bar graph because There was support for bar graph in pyqt5.
-
-Long story short,this graph is made of bar graph!!
-
-You can design for your own...
+I bleive , matplotlib doesnt support hist graph in pyqt5 user interface.
