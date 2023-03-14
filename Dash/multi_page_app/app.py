@@ -2,6 +2,8 @@ import dash
 from dash import dcc, html, Input, Output, State
 import dash_bootstrap_components as dbc
 
+# Huge thanks to Charming Data link:https://www.youtube.com/@CharmingData
+
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.SUPERHERO], title='DashBoard', suppress_callback_exceptions=True, use_pages=True,
                 meta_tags=[{'name': 'viewport',
                             'content': 'width=device-width, initial-scale=1.0'}])
